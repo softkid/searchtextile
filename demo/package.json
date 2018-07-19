@@ -1,8 +1,8 @@
 {
-  "name": "demo",
+  "name": "webpage",
   "version": "1.0.0",
-  "description": "A Vue.js project",
-  "author": "Marcus Lindfeldt <marcus.lindfeldt@gmail.com>",
+  "description": "Search Project",
+  "author": "Stanly Kim <goodprogram@gmail.com>",
   "private": true,
   "scripts": {
     "dev": "node build/dev-server.js",

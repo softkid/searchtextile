@@ -1,5 +1,5 @@
 {
-  "name": "vue-js-workshop",
+  "name": "searchtextile",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -13,14 +13,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jayway/vue-js-workshop.git"
+    "url": "git+https://github.com/softkid/searchtextile.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/jayway/vue-js-workshop/issues"
+    "url": "https://github.com/softkid/searchtextile/issues"
   },
-  "homepage": "https://github.com/jayway/vue-js-workshop#readme",
+  "homepage": "https://github.com/softkid/searchtextile#readme",
   "devDependencies": {
     "gitbook-cli": "^2.3.0"
   },
